@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<!--
-**DavidJDH/DavidJDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm David Jaramillo</h1>
+<h3 align="center">System Engineer and Software Developer Jr🌟.</h3>
 
-Here are some ideas to get you started:
+<h2>📖 | About me</h2> 
+🌐 Systems Engineer with experience in software development and additional training in software quality. Skilled in project planning, delivery time estimation, requirements elicitation, interface design, and user manual creation. Competent in database management, system design, and software architecture, with a comprehensive vision to create efficient and user-oriented technological solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,angular"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages::</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,js,ts,py"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,ps"/></td>
+    </tr>
+</table>
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/eric-david-jaramillo-diaz-523914342/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="erkderby26@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Correo" height="50" width="50" /></a>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
