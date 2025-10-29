@@ -29,7 +29,7 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages::</td>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
       <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,js,ts,py"/></td>
     </tr>
     <tr>
